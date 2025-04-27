@@ -140,6 +140,7 @@ class LogProcessor:
         ).sort_values('dps', ascending=False)
 
         return dps_awards
+```
 
 ## 🧮 Award Calculations
 
