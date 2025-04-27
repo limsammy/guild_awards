@@ -1,6 +1,6 @@
 # Guild Awards
 
-A fun and interactive application that analyzes your World of Warcraft guild's combat logs to celebrate your members' achievements, quirks, and memorable moments.
+A fun and interactive React + Python application that analyzes your World of Warcraft guild's combat logs to celebrate your members' achievements, quirks, and memorable moments.
 
 ## 🎯 Overview
 
